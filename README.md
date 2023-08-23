@@ -23,8 +23,6 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 7. Connect the  ARM board to usb 
 8. Check for execution of the output using run option
 
-
-
 ## STM 32 CUBE PROGRAM :
 ```
 #include "main.h"
@@ -132,8 +130,6 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## off state
 ![image](https://github.com/rakeshcoder2004/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/121490890/fd6bec75-28d2-4376-97f5-4e2ae87b92c5)
-
-
 
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
