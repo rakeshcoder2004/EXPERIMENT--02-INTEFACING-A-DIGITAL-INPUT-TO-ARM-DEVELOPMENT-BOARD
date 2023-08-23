@@ -125,8 +125,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output  :
-## on state:
-![image](https://github.com/rakeshcoder2004/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/121490890/adb83737-f7b6-4c34-8e7e-b7a0480da49c)
+## on state:![image](https://github.com/rakeshcoder2004/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/121490890/adb83737-f7b6-4c34-8e7e-b7a0480da49c)
 
 
 ## off state
